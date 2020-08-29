@@ -1,0 +1,507 @@
+Initialize engine version: 5.3.2f1 (e87ab445ead0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 980M (ID=0x13d7)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Eric\Desktop\PigHunter\PigHunter2K16_1.1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Eric\Desktop\PigHunter\PigHunter2K16_1.1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Eric\Desktop\PigHunter\PigHunter2K16_1.1_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Eric\Desktop\PigHunter\PigHunter2K16_1.1_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Eric\Desktop\PigHunter\PigHunter2K16_1.1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Eric\Desktop\PigHunter\PigHunter2K16_1.1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Eric\Desktop\PigHunter\PigHunter2K16_1.1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Eric\Desktop\PigHunter\PigHunter2K16_1.1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Eric\Desktop\PigHunter\PigHunter2K16_1.1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Eric\Desktop\PigHunter\PigHunter2K16_1.1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.067 seconds
+Platform assembly: C:\Users\Eric\Desktop\PigHunter\PigHunter2K16_1.1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Eric\Desktop\PigHunter\PigHunter2K16_1.1_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 0.719200 ms
+The AnimationClip 'pigAnimation' used by the Animation component 'MrPuggles' must be marked as Legacy.
+ 
+(Filename:  Line: 1971)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3e68 -> priority: 1 
+  Thread -> id: 269c -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.761900 ms
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 706.
+Total: 1.128700 ms (FindLiveObjects: 0.040800 ms CreateObjectMapping: 0.027700 ms MarkObjects: 0.223700 ms  DeleteObjects: 0.835800 ms)
+
+The AnimationClip 'pigAnimation' used by the Animation component 'MrPuggles(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1971)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+The AnimationClip 'pigAnimation' used by the Animation component 'MrPuggles(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1971)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+The AnimationClip 'pigAnimation' used by the Animation component 'MrPuggles(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1971)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+The AnimationClip 'pigAnimation' used by the Animation component 'MrPuggles(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1971)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+The AnimationClip 'pigAnimation' used by the Animation component 'MrPuggles(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1971)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+The AnimationClip 'pigAnimation' used by the Animation component 'MrPuggles(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1971)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+The AnimationClip 'pigAnimation' used by the Animation component 'MrPuggles(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1971)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+The AnimationClip 'pigAnimation' used by the Animation component 'MrPuggles(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1971)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.685800 ms
+
+Unloading 284 unused Assets to reduce memory usage. Loaded Objects now: 259.
+Total: 1.660900 ms (FindLiveObjects: 0.019000 ms CreateObjectMapping: 0.026700 ms MarkObjects: 0.153100 ms  DeleteObjects: 1.461500 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.301800 ms
+The AnimationClip 'pigAnimation' used by the Animation component 'MrPuggles' must be marked as Legacy.
+ 
+(Filename:  Line: 1971)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 522.
+Total: 0.315500 ms (FindLiveObjects: 0.026400 ms CreateObjectMapping: 0.015700 ms MarkObjects: 0.198100 ms  DeleteObjects: 0.074400 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.217000 ms
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 707.
+Total: 1.050900 ms (FindLiveObjects: 0.033100 ms CreateObjectMapping: 0.027400 ms MarkObjects: 0.245100 ms  DeleteObjects: 0.744800 ms)
+
+The AnimationClip 'pigAnimation' used by the Animation component 'MrPuggles(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1971)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+The AnimationClip 'pigAnimation' used by the Animation component 'MrPuggles(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1971)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+The AnimationClip 'pigAnimation' used by the Animation component 'MrPuggles(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1971)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+The AnimationClip 'pigAnimation' used by the Animation component 'MrPuggles(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1971)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+The AnimationClip 'pigAnimation' used by the Animation component 'MrPuggles(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1971)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+The AnimationClip 'pigAnimation' used by the Animation component 'MrPuggles(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1971)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+The AnimationClip 'pigAnimation' used by the Animation component 'MrPuggles(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1971)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+The AnimationClip 'pigAnimation' used by the Animation component 'MrPuggles(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1971)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 14.953900 ms
+
+Unloading 284 unused Assets to reduce memory usage. Loaded Objects now: 259.
+Total: 2.865200 ms (FindLiveObjects: 0.040300 ms CreateObjectMapping: 0.045600 ms MarkObjects: 0.284600 ms  DeleteObjects: 2.493200 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.523900 ms
+The AnimationClip 'pigAnimation' used by the Animation component 'MrPuggles' must be marked as Legacy.
+ 
+(Filename:  Line: 1971)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 522.
+Total: 0.303300 ms (FindLiveObjects: 0.025100 ms CreateObjectMapping: 0.014400 ms MarkObjects: 0.189100 ms  DeleteObjects: 0.073700 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.320300 ms
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 707.
+Total: 1.075500 ms (FindLiveObjects: 0.032400 ms CreateObjectMapping: 0.027800 ms MarkObjects: 0.266900 ms  DeleteObjects: 0.748000 ms)
+
+The AnimationClip 'pigAnimation' used by the Animation component 'MrPuggles(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1971)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+The AnimationClip 'pigAnimation' used by the Animation component 'MrPuggles(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1971)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+The AnimationClip 'pigAnimation' used by the Animation component 'MrPuggles(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1971)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+The AnimationClip 'pigAnimation' used by the Animation component 'MrPuggles(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1971)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+The AnimationClip 'pigAnimation' used by the Animation component 'MrPuggles(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1971)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+The AnimationClip 'pigAnimation' used by the Animation component 'MrPuggles(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1971)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+The AnimationClip 'pigAnimation' used by the Animation component 'MrPuggles(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1971)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+The AnimationClip 'pigAnimation' used by the Animation component 'MrPuggles(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1971)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.081400 ms
+
+Unloading 284 unused Assets to reduce memory usage. Loaded Objects now: 259.
+Total: 2.938300 ms (FindLiveObjects: 0.065200 ms CreateObjectMapping: 0.092400 ms MarkObjects: 0.352700 ms  DeleteObjects: 2.426100 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.388700 ms
+The AnimationClip 'pigAnimation' used by the Animation component 'MrPuggles' must be marked as Legacy.
+ 
+(Filename:  Line: 1971)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 522.
+Total: 0.508600 ms (FindLiveObjects: 0.054900 ms CreateObjectMapping: 0.027700 ms MarkObjects: 0.303200 ms  DeleteObjects: 0.121300 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.193300 ms
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 707.
+Total: 1.053100 ms (FindLiveObjects: 0.032200 ms CreateObjectMapping: 0.027700 ms MarkObjects: 0.266800 ms  DeleteObjects: 0.725700 ms)
+
+The AnimationClip 'pigAnimation' used by the Animation component 'MrPuggles(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1971)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+The AnimationClip 'pigAnimation' used by the Animation component 'MrPuggles(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1971)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+The AnimationClip 'pigAnimation' used by the Animation component 'MrPuggles(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1971)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+The AnimationClip 'pigAnimation' used by the Animation component 'MrPuggles(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1971)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+The AnimationClip 'pigAnimation' used by the Animation component 'MrPuggles(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1971)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+The AnimationClip 'pigAnimation' used by the Animation component 'MrPuggles(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1971)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+The AnimationClip 'pigAnimation' used by the Animation component 'MrPuggles(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1971)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+The AnimationClip 'pigAnimation' used by the Animation component 'MrPuggles(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1971)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.184100 ms
+
+Unloading 284 unused Assets to reduce memory usage. Loaded Objects now: 259.
+Total: 2.663500 ms (FindLiveObjects: 0.048700 ms CreateObjectMapping: 0.058700 ms MarkObjects: 0.350700 ms  DeleteObjects: 2.203800 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.361300 ms
+The AnimationClip 'pigAnimation' used by the Animation component 'MrPuggles' must be marked as Legacy.
+ 
+(Filename:  Line: 1971)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 522.
+Total: 0.339400 ms (FindLiveObjects: 0.027100 ms CreateObjectMapping: 0.015100 ms MarkObjects: 0.219100 ms  DeleteObjects: 0.077100 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.344600 ms
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 707.
+Total: 1.025600 ms (FindLiveObjects: 0.026700 ms CreateObjectMapping: 0.027200 ms MarkObjects: 0.243200 ms  DeleteObjects: 0.728100 ms)
+
+The AnimationClip 'pigAnimation' used by the Animation component 'MrPuggles(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1971)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+The AnimationClip 'pigAnimation' used by the Animation component 'MrPuggles(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1971)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+The AnimationClip 'pigAnimation' used by the Animation component 'MrPuggles(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1971)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+The AnimationClip 'pigAnimation' used by the Animation component 'MrPuggles(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1971)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+The AnimationClip 'pigAnimation' used by the Animation component 'MrPuggles(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1971)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+The AnimationClip 'pigAnimation' used by the Animation component 'MrPuggles(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1971)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+The AnimationClip 'pigAnimation' used by the Animation component 'MrPuggles(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1971)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+The AnimationClip 'pigAnimation' used by the Animation component 'MrPuggles(Clone)' must be marked as Legacy.
+ 
+(Filename:  Line: 1971)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.578500 ms
+
+Unloading 284 unused Assets to reduce memory usage. Loaded Objects now: 259.
+Total: 1.506200 ms (FindLiveObjects: 0.026800 ms CreateObjectMapping: 0.029600 ms MarkObjects: 0.199100 ms  DeleteObjects: 1.249900 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.358200 ms
+The AnimationClip 'pigAnimation' used by the Animation component 'MrPuggles' must be marked as Legacy.
+ 
+(Filename:  Line: 1971)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 522.
+Total: 0.377000 ms (FindLiveObjects: 0.053000 ms CreateObjectMapping: 0.015200 ms MarkObjects: 0.238400 ms  DeleteObjects: 0.069600 ms)
+
